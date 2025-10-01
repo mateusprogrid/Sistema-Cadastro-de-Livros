@@ -1,4 +1,4 @@
-# Sistema de Cadastro de Livros em C
+# Sistema de Cadastro de Livros em **C**
 
 Este repositório contém um programa em **C** que permite cadastrar informações de um livro, como **título**, **número de páginas** e **ano de publicação**, exibindo os dados no console.  
 É um exercício prático para manipulação de **strings, inteiros e entrada de dados formatada**.
